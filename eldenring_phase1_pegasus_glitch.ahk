@@ -5,6 +5,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 SetTitleMatchMode, 2
 
+
+;Use ctrl+z to run this script WHILE YOU ARE ON TORRENT
+
 #IfWinActive, ELDEN RING™
 
 ^z::

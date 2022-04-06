@@ -1,3 +1,5 @@
+;DO NOT run this script as standalone, this is to be included in other scripts
+
 ;Open Menu
 Send, {Escape Down}
 Sleep 30
